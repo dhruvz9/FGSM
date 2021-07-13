@@ -1,10 +1,16 @@
 # TENSORFLOW IMPLEMENTATION OF FGSM
 
-## Usage
-Usage: ipykernel_launcher.py [-h] 
-optional arguments:<br/>
-  -h, --help            show this help message and exit<br/>
+## usage
+```
+python training.py
+```
+## Help Log
+```
+Usage: ipykernel_launcher.py [-h]
+optional arguments:
+  -h, --help            show this help message and exit
   
+```                        
 ## Contributers:
 - [Pranjal Sharma](https://github.com/sppsps)
 - [Dhrubajit Basumatary](https://github.com/dhruvz9)
