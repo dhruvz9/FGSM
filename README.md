@@ -29,8 +29,8 @@ optional arguments:
   <li> {adv}_x: Our output adversarial image</li>
   <li>  x: The original input image</li>
   <li> y: The ground-truth label of the input image</li>
-   <li> \epsilon: Small value we multiply the signed gradients by to ensure the perturbations are small enough that the human eye cannot detect them but large enough that they fool the neural network</li>
-  <li> &theta: Our neural network model</li>
+   <li> &epsilon;: Small value we multiply the signed gradients by to ensure the perturbations are small enough that the human eye cannot detect them but large enough that they fool the neural network</li>
+  <li> &theta;: Our neural network model</li>
   <li> J: The loss function</li>
  </ul> <br>
  <h3>Example</h3>
