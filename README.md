@@ -34,4 +34,4 @@ optional arguments:
   <li> J: The loss function</li>
  </ul>
  # Example <br>
- ![alt_text](https://www.researchgate.net/publication/336402462/figure/fig1/AS:812471887609871@1570719801771/An-adversarial-example-generated-by-the-FGSM-attack-16-on-the-VGG-16-network-55.jpg)
+ <img src = "https://www.researchgate.net/publication/336402462/figure/fig1/AS:812471887609871@1570719801771/An-adversarial-example-generated-by-the-FGSM-attack-16-on-the-VGG-16-network-55.jpg">
