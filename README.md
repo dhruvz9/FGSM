@@ -33,5 +33,5 @@ optional arguments:
   <li> &theta: Our neural network model</li>
   <li> J: The loss function</li>
  </ul> <br>
- # Example 
+ <h3>Example</h3>
  <img src = "https://www.researchgate.net/publication/336402462/figure/fig1/AS:812471887609871@1570719801771/An-adversarial-example-generated-by-the-FGSM-attack-16-on-the-VGG-16-network-55.jpg">
