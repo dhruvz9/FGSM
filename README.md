@@ -32,6 +32,6 @@ optional arguments:
    <li> &Epsilon: Small value we multiply the signed gradients by to ensure the perturbations are small enough that the human eye cannot detect them but large enough that they fool the neural network</li>
   <li> &theta: Our neural network model</li>
   <li> J: The loss function</li>
- </ul>
- # Example <br>
+ </ul> <br>
+ # Example 
  <img src = "https://www.researchgate.net/publication/336402462/figure/fig1/AS:812471887609871@1570719801771/An-adversarial-example-generated-by-the-FGSM-attack-16-on-the-VGG-16-network-55.jpg">
