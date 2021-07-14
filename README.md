@@ -2,7 +2,7 @@
 
 ## usage
 ```
-python training.py
+python fgsm.py
 ```
 ## Help Log
 ```
