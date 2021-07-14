@@ -26,11 +26,11 @@ optional arguments:
  ![alt_text](https://www.pyimagesearch.com/wp-content/uploads/2021/02/fgsm_equation.png)<br>
  where:
  <ul>
-  <li> {adv}\_x: Our output adversarial image</li>
+  <li> {adv}_x: Our output adversarial image</li>
   <li>  x: The original input image</li>
   <li> y: The ground-truth label of the input image</li>
-   <li> \epsilon: Small value we multiply the signed gradients by to ensure the perturbations are small enough that the human eye cannot detect them but large enough that they fool the neural network</li>
-  <li> \theta: Our neural network model</li>
+   <li> &Epsilon: Small value we multiply the signed gradients by to ensure the perturbations are small enough that the human eye cannot detect them but large enough that they fool the neural network</li>
+  <li> &theta: Our neural network model</li>
   <li> J: The loss function</li>
  </ul>
  # Example
