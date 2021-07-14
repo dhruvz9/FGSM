@@ -34,4 +34,5 @@ optional arguments:
   <li> J: The loss function</li>
  </ul> <br>
  <h3>Example</h3>
- <img src = "https://www.researchgate.net/publication/336402462/figure/fig1/AS:812471887609871@1570719801771/An-adversarial-example-generated-by-the-FGSM-attack-16-on-the-VGG-16-network-55.jpg">
+ <img src = "https://www.researchgate.net/publication/336402462/figure/fig1/AS:812471887609871@1570719801771/An-adversarial-example-generated-by-the-FGSM-attack-16-on-the-VGG-16-network-55.jpg"> <br>
+ So here we see the concpet in works, the image classifier was predicting panda with a very high confidence. But as we added perturbations to the iamge to create the adversarial image, the model misclassifies the image. Changing the value of epsilon i.e. the amount of perturbations added can drastically change the output of the model. 
